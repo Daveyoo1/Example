@@ -1,0 +1,107 @@
+#header{
+    /*min-height: 100vh;*/
+    height: 80vh; 
+    width: 94%; 
+    background-image: url("banner.jpg");
+    /*background-position: center;
+    background-size: cover; 
+    position: relative;*/
+    border: 1px solid black; 
+    padding: 40px;
+    
+}
+
+h1{
+    font-size: 70px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 170px;       /* this brings the texts down from insdie the box */
+    padding-left: 50px;
+}
+
+.nav{
+width: 100vh;
+height: 25px;
+border: 1px black;
+padding: 5px;
+background: black;
+color: white;
+display: flex;
+justify-content: center;
+} 
+
+#Outside{
+    height: 7vh;
+    display: flex;
+}
+
+/* body{
+    background-color: black;
+} */
+
+#services{
+    height: 10vh;
+    color: black;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+#dragon{
+    height: 48vh;
+    display: flex;
+}
+
+.drg{
+    width: 100vh;
+    height: 25px;
+    padding: 79px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    } 
+
+
+#nature{
+        height: 48vh;
+        display: flex;
+    }
+
+.ntr{
+        width: 100vh;
+        height: 25px;
+        padding: 80px;
+        background: black;
+        color: white;
+        display: flex;
+        justify-content: center;
+        } 
+
+body{
+    background-color: black;
+}
+
+h2 {
+    
+    color: white;   
+}
+
+h6 {
+    color: white;    /* this is for the <6> section */
+}
+
+#services{
+    width: 100%;
+    padding: 45px 0;  /*  the feature section on the page moves down a bit */
+}
+
+
+strong{
+
+    padding: 0, 0 , 0 , 50px;
+} 
